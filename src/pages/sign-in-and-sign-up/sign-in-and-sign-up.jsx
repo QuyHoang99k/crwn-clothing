@@ -1,0 +1,9 @@
+import React from "react";
+import Signin from "../../components/sign-in/sign-in";
+
+const SignInAndSignUpPage = () =>(
+    <div className="sign-in-and-sign-up">
+        <Signin />
+    </div>
+)
+export default SignInAndSignUpPage
